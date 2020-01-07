@@ -1,3 +1,6 @@
+This project follows Stephen Grider's course, big up to this incredible teacher
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
