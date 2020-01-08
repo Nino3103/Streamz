@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "The story of rastaman",
+      "description": "He danced, smoked and fell asleep",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": "The new story of the rastaman",
+      "description": "He woke up, laughed, and fell asleep again",
+      "userId": null,
+      "id": 6
+    },
+    {
+      "title": "The story of the rastaman part III",
+      "description": "He woke up, take a surf board and surfed a big wave to the USA, shouting : \"yaaaaamaaaan brodafromanavamava\"",
+      "userId": "114640541770702788878",
+      "id": 7
+    },
+    {
+      "title": "The story of Silvia e Jean",
+      "description": "Love, passion, evergreen romance and sbirulini till the death ",
+      "userId": "114640541770702788878",
+      "id": 9
+    }
+  ]
+}
